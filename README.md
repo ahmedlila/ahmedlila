@@ -1,11 +1,10 @@
 <h1 align="center">Hey 👋, Here is Ahmed Lila</h1>
-<h3 align="center">I'm an undergraduate engineer who is passionate about learning, applying, and creating Data Science and Machine Learning projects. Since we all have started it with “print(‘Hello, World’)” I am believing that anyone who has enough passion and persistence can reach a high position in a time.</h3>
+<b align="center">I'm an undergraduate engineer who is passionate about learning, applying, and creating Data Science and Machine Learning projects. Since we all have started it with “print(‘Hello, World’)” I am believing that anyone who has enough passion and persistence can reach a high position in a time.</b>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedlila&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedlila" /> </p>
 
-- 🌱 I’m currently learning **Cloud DevOps Nanodegree**
+- 🌱 I’m currently learning: Cloud DevOps Nanodegree
 
-- 💬 Ask me about **Python, R, Statistics and Probability Sciences.**
+- 💬 Ask me about: Python, R, Statistics and Probability Sciences.
 
 - 📫 How to reach me **ahmedelila7@gmail.com**
 
@@ -13,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ahmedlila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedlila" height="30" width="40" /></a>
 <a href="https://kaggle.com/zasore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zasore" height="30" width="40" /></a>
-<a href="https://fb.com/medolila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="medolila" height="30" width="40" /></a>
+<a href="https://fb.com/medolela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="medolela" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,3 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedlila&show_icons=true&locale=en&layout=compact" alt="ahmedlila" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedlila&show_icons=true&locale=en" alt="ahmedlila" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedlila&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedlila" /> </p>
